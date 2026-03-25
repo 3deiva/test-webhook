@@ -1,4 +1,3 @@
-import flask
 import json
 
 def show_all(json_file):
